@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, IT'S Nice To See you</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Web Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman-chowdhure&label=Profile%20views&color=0e75b6&style=flat" alt="noman-chowdhure" /> </p>
 
