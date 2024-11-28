@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman-chowdhure&label=Profile%20views&color=0e75b6&style=flat" alt="noman-chowdhure" /> </p>
 
